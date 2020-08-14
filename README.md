@@ -1,8 +1,6 @@
 # Embedded Rust Resources
 A short list of resources that are useful when learning rust for embedded.
 
-# Resources
-
 - [Rust Embedded Discovery](https://rust-embedded.github.io/discovery/) - Documentation automated for environment setup. Awesome projects to try and implement yourself to become a master rustacean.
 
 - [Microrust](https://droogmic.github.io/microrust/appendix/troubleshooting.html) - Another beginner friendly book with helpful troubleshooting steps with GDB and openGCD.
